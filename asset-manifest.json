@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//samikshasahare31.github./Youyube_clone/static/css/main.5242e2bd.css",
+    "main.js": "//samikshasahare31.github./Youyube_clone/static/js/main.6c77d286.js",
+    "index.html": "//samikshasahare31.github./Youyube_clone/index.html",
+    "main.5242e2bd.css.map": "//samikshasahare31.github./Youyube_clone/static/css/main.5242e2bd.css.map",
+    "main.6c77d286.js.map": "//samikshasahare31.github./Youyube_clone/static/js/main.6c77d286.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5242e2bd.css",
+    "static/js/main.6c77d286.js"
+  ]
+}
